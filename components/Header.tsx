@@ -41,7 +41,7 @@ export const Header: React.FC = () => {
       <div className="w-full lg:w-1/2 h-[50vh] lg:h-screen relative order-1 lg:order-2 overflow-hidden">
         <div className="absolute inset-0 bg-dark/10 z-10"></div>
         <img 
-          src="https://images.unsplash.com/photo-1519014816548-bf5fe059e98b?q=80&w=2070&auto=format&fit=crop" 
+          src="https://images.unsplash.com/photo-1604654894610-df63bc536371?q=80&w=2070&auto=format&fit=crop" 
           alt="Luxury Manicure" 
           className="w-full h-full object-cover transition-transform duration-[2000ms] hover:scale-105"
         />
